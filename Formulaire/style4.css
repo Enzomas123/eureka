@@ -1,0 +1,14 @@
+.into{
+    background-color: aqua;
+    text-align: center;
+    padding: 0px;
+    margin: 0;
+    height: 100vh;
+    
+    
+}
+
+.img{
+    width: 20%;
+    height: auto;
+}
